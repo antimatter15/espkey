@@ -3,6 +3,10 @@ A portable hyperlocal wireless social experiment
 
 ![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/wifi.png)
 
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/top.jpg)
+
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/bottom.jpg)
+
 ## Bill of Materials
 
 
