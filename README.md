@@ -1,7 +1,7 @@
 # espkey
 A portable hyperlocal wireless social experiment
 
-![](images/screenshot.png)
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/wifi.png)
 
 ## Bill of Materials
 
@@ -21,10 +21,18 @@ A portable hyperlocal wireless social experiment
 The ShoutKey is designed to be really cheap. With some lead time associated with shipping from China, it can be made for well under $2 each. Its soul is the ESP8266 ESP-12F module, which costs as little as $1.30. 
 
 
+## PCB Design
+
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/schematic.png)
+
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/top.svg)
+![](https://raw.githubusercontent.com/antimatter15/espkey/master/images/bottom.svg)
+
+The PCB was designed in EasyEDA. The source files can be found in the `pcb/` directory. 
 
 ## Necessary Tools
 
-We'll need an FTDI USB Serial adapter module .
+We'll need an FTDI USB Serial adapter module.
 
 
 ## Flashing
